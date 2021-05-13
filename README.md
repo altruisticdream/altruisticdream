@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/> I'm Ashutosh</h1>
 
 
-I'm currently a student android app developer and competitive programmer.
-I do play Games to avoid coffee sometimes .
+An ambitious, result-driven second-year B-Tech student with works in Java, Python, Android Studio(Java) and Data Science. Constantly looking for new ideas to implement in the real world.
+
 
 
  <p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
