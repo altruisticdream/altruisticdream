@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/> I'm Ashutosh</h1>
 
-<h2 align="center">An ambitious, result-driven second-year B-Tech student with works in Java, Python, Android Studio(Java) and Data Science. Constantly looking for new ideas to implement in the real world.</h2>
+<h3 align="center">An ambitious, result-driven second-year B-Tech student with works in Java, Python, Android Studio(Java) and Data Science. Constantly looking for new ideas to implement in the real world.</h3>
 
 
 
