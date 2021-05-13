@@ -8,7 +8,7 @@ An ambitious, result-driven second-year B-Tech student with works in Java, Pytho
  <p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
 
-[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=altruisticdream&show_icons=true&theme=radical)](https://github.com/altruisticdream/github-readme-stats)
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=altruisticdream&hide=stars,issues&count_private=true&show_icons=true&theme=gotham)](https://github.com/altruisticdream/github-readme-stats)
 
 
 <h2>
