@@ -20,7 +20,6 @@
  <p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
 
-[![Ashutosh's github stats]
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=altruisticdream&show_icons=true" alt="altruisticdream" />
 
 
