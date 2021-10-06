@@ -5,7 +5,15 @@
 
 ![](https://komarev.com/ghpvc/?username=altruisticdream&color=brightgreen&style=flat&label=PROFILE+VIEWS)
 
+- 🧑🏻‍💻 Open to Software Engineering roles | Grad in 2023. 
 
+- 🔭 I’m currently working on Android App Development.
+- 🌱 Ex Intern at London Strategy and consulting group.
+- 👯 I’m looking to collaborate on open source projects
+
+- 💬 Ask me about anything. I'm happy to help!!
+
+- 📫 Reach out to me - **ashutoshgautam9628@outlook.com**
 
 
 
@@ -28,8 +36,7 @@
 --- 
 
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
+ 
    <i>Its better to be late than to be absent</i>
    <br>
    <i>@altruisticdream</i>
