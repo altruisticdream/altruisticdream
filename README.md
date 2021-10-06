@@ -31,10 +31,7 @@
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="mongodb" width="50" hspace="5" height="50"/>
 </p>
 
- 
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=altruisticdream&show_icons=true" alt="altruisticdream" />
+<img align="center" src="https://github.com/altruisticdream/altruisticdream/blob/main/240_F_284692342_FkKunloWDjhyfVsmUxxnGJQjR3fiOZ4U.jpg" alt="altruisticdream" />
 
 ---
  
@@ -44,7 +41,8 @@
  
 ---
  
-| [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ashutosh-gautam-bb8236194/) | [<img src="https://camo.githubusercontent.com/0609e0828f7399cf5d450921085802218b345c001b976916b2855e282bfec60d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6f75746c6f6f6b2e737667" alt="outlook" width="32">] ashutoshgautam9628@outlook.com| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="32">](https://github.com/altruisticdream) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="32">](https://www.hackerrank.com/Ashutosh054)
+| [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ashutosh-gautam-bb8236194/) | [<a href="mailto:ashutoshgautam9628@outlook.com"><img height="32"src="https://camo.githubusercontent.com/0609e0828f7399cf5d450921085802218b345c001b976916b2855e282bfec60d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6f75746c6f6f6b2e737667"> 
+      </a>] | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="32">](https://github.com/altruisticdream) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="32">](https://www.hackerrank.com/Ashutosh054)
 |:---:|:---:|:---:|:---:|
 
 <br>
