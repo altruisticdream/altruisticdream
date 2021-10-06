@@ -3,7 +3,9 @@
 <h3 align="center">An ambitious, result-driven second-year B-Tech student with works in Java, Python, Android Studio(Java) and Data Science. Constantly looking for new ideas to implement in the real world.</h3>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=altruisticdream)
+![](https://komarev.com/ghpvc/?username=altruisticdream&color=green)
+
 
 
 
