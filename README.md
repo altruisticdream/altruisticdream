@@ -4,9 +4,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=altruisticdream)
-![](https://komarev.com/ghpvc/?username=altruisticdream&color=green)
-![](https://komarev.com/ghpvc/?username=altruisticdream&style=flat)
-![](https://komarev.com/ghpvc/?username=altruisticdream&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=altruisticdream&colorbrightgreen&style=flat&label=PROFILE+VIEWS)
 
 
 
