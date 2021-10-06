@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=altruisticdream&color=brightgreen&style=flat&label=PROFILE+VIEWS)
 
- <img align="right" width="250" height="350" src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif"/>
+ <img align="right" width="250" height="350" src="https://iconscout.com/illustration/coder-3462295" alt="codergif"/>
  
 - 🧑🏻‍💻 Open to Software Engineering roles | Grad in 2023. 
 
