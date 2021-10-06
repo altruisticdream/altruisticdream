@@ -37,8 +37,6 @@
 📫 Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
  
----
- 
 | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ashutosh-gautam-bb8236194/) | [<img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/outlook.png" alt="outlook logo" width="32">](mailto:bishtaman1111@gmail.com) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="32">](https://github.com/altruisticdream) | [<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="32">](https://www.hackerrank.com/Ashutosh054)
 |:---:|:---:|:---:|:---:|
 
