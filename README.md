@@ -30,7 +30,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"  hspace="5 width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="mongodb" width="50" hspace="5" height="50"/>
 </p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=altruisticdream&show_icons=true" alt="altruisticdream" />
 ---
  
 <h2>
